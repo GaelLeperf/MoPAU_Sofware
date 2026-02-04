@@ -1,10 +1,10 @@
-# MoPAU_Sofware
+# MoPAU_software
 
 [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Description
 -----------
-MoPAU_Sofware est un petit outil Python d'importation, d'analyse cinématique et de génération de rapports PDF à partir de fichiers CSV produits par le système MoPAU.  
+MoPAU_Software est un petit outil Python d'importation, d'analyse cinématique et de génération de rapports PDF à partir de fichiers CSV produits par le système MoPAU.  
 Le projet fournit :
 - une interface graphique minimale pour saisir les informations d'un sujet et sélectionner le dossier contenant les CSV (`gui.py`),
 - un module d'import/traitement et de filtrage des données (`Import_files.py`),
@@ -23,8 +23,8 @@ Installation
 ------------
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/GaelLeperf/MoPAU_Sofware.git
-cd MoPAU_Sofware
+git clone https://github.com/GaelLeperf/MoPAU_software.git
+cd MoPAU_software
 ```
 
 2. Créer un environnement virtuel et installer les dépendances :
